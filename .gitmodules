@@ -1,0 +1,3 @@
+[submodule "Peppaex-API-Docs.wiki"]
+	path = Peppaex-API-Docs.wiki
+	url = git@github.com:peppaex/Peppaex-API-Docs.wiki.git
